@@ -56,18 +56,7 @@ export default function FAQScreen({ faq }) {
                 color: theme.colors.neutral[500],
               }}
             >
-              Não consegue encontrar a resposta que procura? entre em contato com nosso{' '}
-              <Link
-                href="mailto:contato@alura.com.br"
-                styleSheet={{
-                  color: theme.colors.primary[400],
-                  hover: {
-                    color: theme.colors.primary[300],
-                  },
-                }}
-              >
-                time de suporte ao consumidor
-              </Link>
+              Andrey Veja esse exemplo
             </Text>
 
             <Text
