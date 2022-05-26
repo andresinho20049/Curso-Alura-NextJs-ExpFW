@@ -33,7 +33,7 @@ export default function Footer() {
             color: theme.colors.neutral[400],
           }}
         >
-          &copy; {new Date().getFullYear()} DevSoutinho. Todos os direitos reservados.
+          &copy; {new Date().getFullYear()} Andresinho20049. Acompanhando curso com DevSoutinho
         </Text>
       </Box>
     </Box>
